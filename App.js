@@ -1,13 +1,15 @@
-import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, View } from 'react-native';
-import LoginScreen from './screens/LoginScreen';
-import PasswordGenerator from './screens/PasswordGenerator';
+// import LoginScreen from "./screens/LoginScreen";
+// import ScreenTiki_Ok from "./screens/ScreenTiki_Ok";
+// import FeedbackScreen from "./screens/FeedbackScreen";
+// import PasswordGenerator from "./screens/PasswordGenerator";
 
 export default function App() {
-    return ( 
+    return (
         <>
-            {/* <LoginScreen/> */}
-            <PasswordGenerator/>
+            {/* <LoginScreen /> */}
+            {/* <PasswordGenerator /> */}
+            {/* <ScreenTiki_Ok /> */}
+            {/* <FeedbackScreen /> */}
         </>
     );
 }
